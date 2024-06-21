@@ -1,4 +1,4 @@
 # demo
 Demo Repository
 <br>
-Author - Khushi Muhammad
+Author - Khushi Muhammad (TecDistro)
